@@ -1,0 +1,39 @@
+﻿  main.cpp
+  win.cpp
+  dxutil.cpp
+e:\users\graeme\desktop\directx\cw\coursework - celshading\src\framework\dxutil.cpp(56): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(243) : see declaration of 'wcscat'
+e:\users\graeme\desktop\directx\cw\coursework - celshading\src\framework\dxutil.cpp(106): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(273) : see declaration of 'wcsncpy'
+e:\users\graeme\desktop\directx\cw\coursework - celshading\src\framework\dxutil.cpp(130): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(273) : see declaration of 'wcsncpy'
+e:\users\graeme\desktop\directx\cw\coursework - celshading\src\framework\dxutil.cpp(151): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(273) : see declaration of 'wcsncpy'
+e:\users\graeme\desktop\directx\cw\coursework - celshading\src\framework\dxutil.cpp(552): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(273) : see declaration of 'wcsncpy'
+e:\users\graeme\desktop\directx\cw\coursework - celshading\src\framework\dxutil.cpp(596): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(273) : see declaration of 'wcsncpy'
+e:\users\graeme\desktop\directx\cw\coursework - celshading\src\framework\dxutil.cpp(644): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(250) : see declaration of 'wcscpy'
+e:\users\graeme\desktop\directx\cw\coursework - celshading\src\framework\dxutil.cpp(659): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(250) : see declaration of 'wcscpy'
+e:\users\graeme\desktop\directx\cw\coursework - celshading\src\framework\dxutil.cpp(668): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(250) : see declaration of 'wcscpy'
+e:\users\graeme\desktop\directx\cw\coursework - celshading\src\framework\dxutil.cpp(680): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(250) : see declaration of 'wcscpy'
+e:\users\graeme\desktop\directx\cw\coursework - celshading\src\framework\dxutil.cpp(731): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\wchar.h(707) : see declaration of '_snwprintf'
+e:\users\graeme\desktop\directx\cw\coursework - celshading\src\framework\dxutil.cpp(759): warning C4996: '_vsnwprintf': This function or variable may be unsafe. Consider using _vsnwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\wchar.h(707) : see declaration of '_vsnwprintf'
+e:\users\graeme\desktop\directx\cw\coursework - celshading\src\framework\dxutil.cpp(782): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\wchar.h(797) : see declaration of 'swscanf'
+e:\users\graeme\desktop\directx\cw\coursework - celshading\src\framework\dxutil.cpp(816): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\wchar.h(707) : see declaration of '_snwprintf'
+  d3dutil.cpp
+  d3dfont.cpp
+e:\users\graeme\desktop\directx\cw\coursework - celshading\src\framework\d3dfont.cpp(45): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\wchar.h(1013) : see declaration of 'wcsncpy'
+  d3d.cpp
+  application.cpp
+  Generating Code...
+  Cel Shading.vcxproj -> E:\Users\Graeme\Desktop\DirectX\CW\Coursework - CelShading\Debug\Cel Shading.exe

@@ -1,0 +1,57 @@
+﻿Build started 26/09/2014 09:48:57.
+     1>Project "D:\Users\Graeme\Portfolio\Cel Shader Demo\Application\Cel Shading.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\Users\Graeme\Portfolio\Cel Shader Demo\Application\src" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Src\application.cpp Src\framework\d3d.cpp Src\framework\d3dfont.cpp Src\framework\d3dutil.cpp Src\framework\dxutil.cpp Src\framework\win.cpp Src\main.cpp
+         main.cpp
+         win.cpp
+         dxutil.cpp
+     1>d:\users\graeme\portfolio\cel shader demo\application\src\framework\dxutil.cpp(56): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(284) : see declaration of 'wcscat'
+     1>d:\users\graeme\portfolio\cel shader demo\application\src\framework\dxutil.cpp(106): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(323) : see declaration of 'wcsncpy'
+     1>d:\users\graeme\portfolio\cel shader demo\application\src\framework\dxutil.cpp(130): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(323) : see declaration of 'wcsncpy'
+     1>d:\users\graeme\portfolio\cel shader demo\application\src\framework\dxutil.cpp(151): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(323) : see declaration of 'wcsncpy'
+     1>d:\users\graeme\portfolio\cel shader demo\application\src\framework\dxutil.cpp(552): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(323) : see declaration of 'wcsncpy'
+     1>d:\users\graeme\portfolio\cel shader demo\application\src\framework\dxutil.cpp(596): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(323) : see declaration of 'wcsncpy'
+     1>d:\users\graeme\portfolio\cel shader demo\application\src\framework\dxutil.cpp(644): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(294) : see declaration of 'wcscpy'
+     1>d:\users\graeme\portfolio\cel shader demo\application\src\framework\dxutil.cpp(659): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(294) : see declaration of 'wcscpy'
+     1>d:\users\graeme\portfolio\cel shader demo\application\src\framework\dxutil.cpp(668): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(294) : see declaration of 'wcscpy'
+     1>d:\users\graeme\portfolio\cel shader demo\application\src\framework\dxutil.cpp(680): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(294) : see declaration of 'wcscpy'
+     1>d:\users\graeme\portfolio\cel shader demo\application\src\framework\dxutil.cpp(731): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\wchar.h(733) : see declaration of '_snwprintf'
+     1>d:\users\graeme\portfolio\cel shader demo\application\src\framework\dxutil.cpp(759): warning C4996: '_vsnwprintf': This function or variable may be unsafe. Consider using _vsnwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\wchar.h(733) : see declaration of '_vsnwprintf'
+     1>d:\users\graeme\portfolio\cel shader demo\application\src\framework\dxutil.cpp(782): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\wchar.h(823) : see declaration of 'swscanf'
+     1>d:\users\graeme\portfolio\cel shader demo\application\src\framework\dxutil.cpp(816): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\wchar.h(733) : see declaration of '_snwprintf'
+         d3dutil.cpp
+         d3dfont.cpp
+     1>d:\users\graeme\portfolio\cel shader demo\application\src\framework\d3dfont.cpp(45): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\wchar.h(1073) : see declaration of 'wcsncpy'
+         d3d.cpp
+         application.cpp
+         Generating Code...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\Graeme\Portfolio\Cel Shader Demo\Application\Debug\Cel Shading.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\Graeme\Portfolio\Cel Shader Demo\Application\Debug\Cel Shading.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\Graeme\Portfolio\Cel Shader Demo\Application\Debug\Cel Shading.lib" /MACHINE:X86 /SAFESEH Debug\application.obj
+         Debug\d3d.obj
+         Debug\d3dfont.obj
+         Debug\d3dutil.obj
+         Debug\dxutil.obj
+         Debug\win.obj
+         Debug\main.obj
+     1>application.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         Cel Shading.vcxproj -> D:\Users\Graeme\Portfolio\Cel Shader Demo\Application\Debug\Cel Shading.exe
+     1>Done Building Project "D:\Users\Graeme\Portfolio\Cel Shader Demo\Application\Cel Shading.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.16

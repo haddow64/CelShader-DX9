@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Src\application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\framework\d3d.cpp">
+      <Filter>Framework\.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\framework\d3dfont.cpp">
+      <Filter>Framework\.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\framework\d3dutil.cpp">
+      <Filter>Framework\.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\framework\dxutil.cpp">
+      <Filter>Framework\.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\framework\win.cpp">
+      <Filter>Framework\.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Src\application.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\framework\d3d.h">
+      <Filter>Framework\.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\framework\d3dfont.h">
+      <Filter>Framework\.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\framework\d3dutil.h">
+      <Filter>Framework\.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\framework\dxutil.h">
+      <Filter>Framework\.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\framework\exception.h">
+      <Filter>Framework\.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\framework\singleton.h">
+      <Filter>Framework\.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\framework\stddef.h">
+      <Filter>Framework\.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\framework\timer.h">
+      <Filter>Framework\.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\framework\win.h">
+      <Filter>Framework\.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\highlight_mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="models\car.x">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="models\cube.X">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="models\dino.x">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="models\spaceship 2.x">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="models\sphere.x">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="models\teapot.X">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Shader\cel_shading.hlsl">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="Shader\highlight_edges.hlsl">
+      <Filter>Shader Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Framework">
+      <UniqueIdentifier>{d3b8b754-6520-43b0-95df-f8f483fcc1b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework\.cpp">
+      <UniqueIdentifier>{69373a3e-d75e-47d4-affa-88602c276fdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Framework\.h">
+      <UniqueIdentifier>{9a31e0e3-c3ba-438c-86fa-34d1b501ce2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5a797d64-e373-4863-878d-dc80e114742d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{6f1cc0db-8f1f-4d3f-9685-ee45d753aad5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader Files">
+      <UniqueIdentifier>{c748d0e5-e0a5-4843-86ea-8e3451f9cb00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{280bf40a-22d3-4775-9ea5-908ce2005036}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
